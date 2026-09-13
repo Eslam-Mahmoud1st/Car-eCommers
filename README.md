@@ -28,8 +28,9 @@ The website presents a modern car showroom interface with different car categori
 
 ## Screenshots
 
+## Main
 ![Main](Screenshots/main-background.jpeg)
-
+## Sec2
 ![Sec2](Screenshots/section-two.jpeg)
 
 ## Project Purpose
